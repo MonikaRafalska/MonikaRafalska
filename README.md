@@ -1,7 +1,7 @@
 ### Hello there! ⚡
 
-<i><b>I am a Junior Front-End Developer, looking for the first job in IT. </b>
-<br>I have been interested in building websites for some time.</i>
+<i><b>I am a Junior Front-End Developer, looking for the first job in IT. </b><i>
+<br>I have been interested in building websites for some time.
 
 ## 🌱 Technologies
 <img align="left" alt="html" src="https://img.shields.io/badge/-html-orange?&style=for-the-badge&logo=html5&logoColor=white" />
