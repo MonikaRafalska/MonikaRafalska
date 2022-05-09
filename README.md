@@ -7,6 +7,7 @@ I am a Junior Front-End Developer, looking for first job in IT.
 <img align="left" alt="css" src="https://img.shields.io/badge/-css-%231572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-JS-%23F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="redux" src="https://img.shields.io/badge/-redux-%23764ABC?&style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><br>
 
 ## 📫 Contact me
