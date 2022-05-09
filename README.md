@@ -1,6 +1,6 @@
 ### Hello there! ⚡
 
-<i><b>I am a Junior Front-End Developer, looking for the first job in IT. </b><i>
+<i><b>I am a Junior Front-End Developer, looking for the first job in IT. </b></i>
 <br>I have been interested in building websites for some time.
 
 ## 🌱 Technologies
