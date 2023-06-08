@@ -1,7 +1,7 @@
 ### Hello there! ⚡ This is Monika
 
 I am a Junior Front-End Developer, looking for the first job in IT. 
-<br>Currently, develop myself in JavaScript using React library. Here you can find some of my frontend and backend projects.
+<br>Currently, develop myself in JavaScript using React library. Here you can find some of my frontend projects.
 
 ## 🌱 Technologies
 <img align="left" alt="html" src="https://img.shields.io/badge/-html-orange?&style=for-the-badge&logo=html5&logoColor=white" />
